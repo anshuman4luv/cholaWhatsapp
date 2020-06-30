@@ -1,6 +1,6 @@
 // ODA Details
-module.exports.ODA_WEBHOOK_URL = process.env.BOT_WEBHOOK_URL || 'https://oda-29427bd64ddb407f81766b33c7695c50-da2.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/017d6e11-8acf-45ee-a2de-ed7272353b78';
-module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'cfsW2bYFoupzDynqV90pRXIlAJAXFKLk';
+module.exports.ODA_WEBHOOK_URL = process.env.BOT_WEBHOOK_URL || 'https://oda-4c96e0b6b9944e0787a88e759ce9b454-da2.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/6a9f23b0-1920-4d61-806b-388b187ac3f3';
+module.exports.ODA_WEBHOOK_SECRET = process.env.BOT_WEBHOOK_SECRET || 'XKla5JZQ5t0Y5Mdto4jT18UENP1CbhkL';
 
 
 
